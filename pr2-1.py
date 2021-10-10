@@ -1,3 +1,5 @@
+# 숫자 n개를 리스트로 입력받아 최솟값을 구하는 프로그램
+
 def find_min_idx(a):
     n = len(a)
     min_idx = a[0]
