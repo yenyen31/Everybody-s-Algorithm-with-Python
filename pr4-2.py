@@ -13,4 +13,4 @@ def find_max(i, n):
         return a[n-1]
 
     v = [0, 1, 2, 3, 4, 5]
-    print(max_val(v, len(v)))
+    print(find_max(v, len(v)))
